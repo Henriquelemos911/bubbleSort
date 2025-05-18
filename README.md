@@ -21,7 +21,7 @@
    cd /path/to/your/file
 
 3. Compile the code:
-   g++ bubbleSort.cpp -o bubbleSort
+   g++ main.cpp -o bubbleSort
 
 4. Run the program:
    ./bubbleSort
@@ -37,7 +37,7 @@
    cd C:\path\to\your\file
 
 4. Compile the code:
-   g++ bubbleSort.cpp -o bubbleSort.exe
+   g++ main.cpp -o bubbleSort.exe
 
 5. Run the program:
    bubbleSort.exe
